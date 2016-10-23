@@ -13,7 +13,7 @@ desc: Test installation of Java EE SDK 5
     for (int i = 1; i < 5; i++)
     {
 %>
-<h<%=i%>>Hello World</h<%=i%>>
+<h<%=i%>>Yo, Hello World!!!!11111</h<%=i%>>
 <%
     }
 %>
